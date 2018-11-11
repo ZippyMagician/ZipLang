@@ -1,0 +1,11 @@
+def test(str string, bl bool, i int)
+    if i == 5 then
+        if bl == true then
+            loop i
+                print str
+            end
+        end
+    end
+end
+
+test("Loops 5 times", true, 5)
