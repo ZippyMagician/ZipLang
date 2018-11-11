@@ -1,6 +1,6 @@
 {
   "name": "ziplang",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "A programming language",
   "dependencies": {
     "clear": "^0.1.0",
@@ -13,6 +13,10 @@
   "author": "Joshua Barnett",
   "scripts": {
     "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/ZippyMagician/ZipLang"
   },
   "license": "MIT",
   "bin": {
