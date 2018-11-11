@@ -1,0 +1,7 @@
+array x("sup", "jeff", "im", "josh")
+
+inc : 0
+loop 4
+  print x(inc)
+  inc +: 1
+end

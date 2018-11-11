@@ -1,0 +1,19 @@
+def jeff(age int, name string, alive bool, amazing bool)
+  msg : name msg +: " is " msg +: age msg +: " years old"
+  
+  if alive then
+    msg +: " and he's alive!"
+  else
+    msg +: " and he's dead :("
+  end
+
+  print msg
+
+  if amazing then
+    print "He is also amazing"
+  else
+    print "Unfortunately, he is not amazing"
+  end
+end
+
+jeff(10, "Bob", true, false)

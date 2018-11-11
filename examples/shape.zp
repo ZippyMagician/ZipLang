@@ -1,0 +1,16 @@
+print "Enter number of layers"
+h :: poke
+
+l :: h * 2 - 5
+
+def draw(length int, height int)
+  loop height
+    msg : ""
+    loop length
+      msg +: "*"
+    end
+    print msg
+  end
+end
+
+draw(l, h)

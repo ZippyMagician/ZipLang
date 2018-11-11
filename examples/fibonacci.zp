@@ -1,0 +1,7 @@
+def fibnums(inc int)
+  a : 1
+  b : 1
+  loop inc if b < a then b +: a print b else a +: b print a end end
+end
+
+fibnums(27)

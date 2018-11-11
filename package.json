@@ -1,0 +1,21 @@
+{
+  "name": "ziplang",
+  "version": "2.2.0",
+  "description": "A programming language",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0",
+    "minimist": "^1.2.0",
+    "node-cmd": "^3.0.0",
+    "readline-sync": "^1.4.9"
+  },
+  "author": "Joshua Barnett",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "license": "MIT",
+  "bin": {
+    "ziplang": "./index.js"
+  }
+}
