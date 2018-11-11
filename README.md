@@ -1,4 +1,7 @@
 # ZipLang
+
+[![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
+
 A programming language I wrote for fun
 ## How to install
 To install, follow these steps:
