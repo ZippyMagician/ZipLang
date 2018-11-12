@@ -45,6 +45,8 @@ function execute(tokens, env) {
         vars.forEach(r => {if(r.type === "keyword") return croak("Invalid ending to container");});
 
         if(!vars) return;
+        if(!func.value) return croak(name + " does not exist");
+        if(!func.value.type) return croak(name + " does not exist");
         
         if(func.value.type === "array") {
           let num = vars[0];
