@@ -1,6 +1,6 @@
 {
   "name": "ziplang",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "A programming language",
   "dependencies": {
     "clear": "^0.1.0",
