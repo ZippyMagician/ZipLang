@@ -9,3 +9,4 @@ def test(str string, bl bool, i int)
 end
 
 test("Loops 5 times", true, 5)
+print OS_VERSION
