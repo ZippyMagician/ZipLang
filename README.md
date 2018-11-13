@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ZipLang</h1><br>
+  <h1><img src="https://raw.githubusercontent.com/ZippyMagician/ZipLang/master/files/ziplang.png"></h1><br>
 
   [![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
   [![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)<br>
