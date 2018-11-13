@@ -9,7 +9,7 @@
     <a href="https://david-dm.org/ZippyMagician/ZipLang"><img src="https://david-dm.org/ZippyMagician/ZipLang/status.svg" alt="Dependencies" /></a>
   </p>
   <p>
-    <a href="https://nodei.co/npm/ZipLang/"><img src="https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/" alt="npm installnfo" /></a>
+    <a href="https://nodei.co/npm/ZipLang/"><img src="https://nodei.co/npm/ziplang.png" alt="npm installnfo" /></a>
   </p>
 </div>
 
