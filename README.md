@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
 [![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)
+[![NPM](https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/)
 
 A programming language I wrote for fun
 ## How to install
