@@ -522,5 +522,5 @@ module.exports = tokens => {
   let os = require('os');
   var value = os.platform() + '-' + os.release();
   globalEnv.def('OS_VERSION', {constant: true, value: value});
-  execute(tokens, new globalEnv);
+  execute(tokens, globalEnv);
 }
