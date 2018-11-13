@@ -5,11 +5,11 @@
   </p>
   <br />
   <p>
-    [![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
-    [![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)
+    <a href="https://travis-ci.org/ZippyMagician/ZipLang"><img src="https://travis-ci.org/ZippyMagician/ZipLang.svg" alt="Build status" /></a>
+    <a href="https://david-dm.org/ZippyMagician/ZipLang"><img src="https://david-dm.org/ZippyMagician/ZipLang/status.svg" alt="Dependencies" /></a>
   </p>
   <p>
-    [![NPM](https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/)
+    <a href="https://nodei.co/npm/ZipLang/"><img src="https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/" alt="npm installnfo" /></a>
   </p>
 </div>
 
