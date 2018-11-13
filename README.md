@@ -6,7 +6,8 @@
   [![NPM](https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/)
 </div>
 
-A programming language I wrote for fun
+## About
+A programming language I wrote for fun, written in NodeJS
 ## How to install
 To install, follow these steps:
 - run `npm install -g ziplang` to install ZipLang globally
