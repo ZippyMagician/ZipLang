@@ -1,8 +1,10 @@
-<h1 align="center">ZipLang</h1><br>
+<div align="center">
+  <h1>ZipLang</h1><br>
 
-[![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
-[![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)<br>
-[![NPM](https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/)
+  [![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
+  [![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)<br>
+  [![NPM](https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/)
+</div>
 
 A programming language I wrote for fun
 ## How to install
