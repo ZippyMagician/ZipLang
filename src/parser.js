@@ -517,4 +517,10 @@ function execute(tokens, env) {
   }
 }
 
-module.exports = tokens => execute(tokens, new Environment());
+module.exports = tokens => {
+  const globalEnv = new Environment();
+  let os = require('os');
+  var value = os.platform() + '-' + os.release();
+  globalEnv.def('OS_VERSION', {constant: true, value: value});
+  execute(tokens, new globalEnv);
+}
