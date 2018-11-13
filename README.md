@@ -1,4 +1,4 @@
-# ZipLang
+<h1 align="center">ZipLang</h1><br>
 
 [![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
 [![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)<br>
