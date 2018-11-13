@@ -1,10 +1,18 @@
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/ZippyMagician/ZipLang/master/files/ziplang.png"></h1><br>
-
-  [![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
-  [![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)<br>
-  [![NPM](https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/)
+  <br />
+  <p>
+    <a href="https://npmjs.org/package/ziplang"><img src="https://raw.githubusercontent.com/ZippyMagician/ZipLang/master/files/ziplang.png" alt="ziplang" /></a>
+  </p>
+  <br />
+  <p>
+    [![Build Status](https://travis-ci.org/ZippyMagician/ZipLang.svg?branch=master)](https://travis-ci.org/ZippyMagician/ZipLang)
+    [![Dependencies Status](https://david-dm.org/ZippyMagician/ZipLang/status.svg)](https://david-dm.org/ZippyMagician/ZipLang)
+  </p>
+  <p>
+    [![NPM](https://nodei.co/npm/ziplang.png)](https://nodei.co/npm/ziplang/)
+  </p>
 </div>
+
 
 ## About
 A programming language I wrote for fun, written in NodeJS
