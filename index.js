@@ -56,3 +56,8 @@ const argv = require('minimist')(process.argv.slice(2));
       //console.log(JSON.stringify(lexer(code.join(" "))));
     });
   }
+
+module.exports = {
+  tokenify: (code) => lexer(code),
+  execute: (tokens) => parser(tokens)
+}
