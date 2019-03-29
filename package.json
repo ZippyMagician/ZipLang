@@ -2,6 +2,7 @@
   "name": "ziplang",
   "version": "2.2.5",
   "description": "A programming language",
+  "main": "index.js",
   "dependencies": {
     "clear": "^0.1.0",
     "commander": "^2.19.0",
@@ -21,6 +22,6 @@
   },
   "license": "MIT",
   "bin": {
-    "ziplang": "./index.js"
+    "ziplang": "./bin/index.js"
   }
 }
