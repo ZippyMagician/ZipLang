@@ -1,6 +1,6 @@
 {
   "name": "ziplang",
-  "version": "2.2.5",
+  "version": "2.3",
   "description": "A programming language",
   "main": "index.js",
   "dependencies": {
