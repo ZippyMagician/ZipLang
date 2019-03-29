@@ -13,6 +13,7 @@
   </p>
 </div>
 
+_Please note: This repository is currently at a higher version then my npm package. I will update it when I have time_
 
 ## About
 A programming language I wrote for fun, written in NodeJS
@@ -21,12 +22,19 @@ To install, follow these steps:
 - run `npm install -g ziplang` to install ZipLang globally
 - ZipLang is now installed on your machine
 ## How to use
-There are 2 different possibilites when running Ziplang. You can either execute _From the command line_ or _From a file_
+There are 2 different possibilites when running Ziplang from a terminal. You can either execute _From the command line_ or _From a file_
 The syntax would be:
 ```sh
 ziplang <-f || -u || -i> [path]
 ```
 -f [path] will run a file ending in _.zp_, and -u will enter user input mode. -i will __update ziplang__
+
+You can also run ZipLang from a javascript file, in which case the code would be:
+```js
+const ziplang = require('ziplang');
+ziplang.execute(ziplang.tokenstream(YOUR_CODE));
+```
+
 ## Syntax
 The syntax for ZipLang is pretty simple, here is an excerpt from an example file
 _Syntax.zp_
